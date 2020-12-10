@@ -18,6 +18,6 @@ Each product card has a hero animation, this is activated when click to see the 
 ## Technical Details:
 
 ```
-**Flutter** version 1.22.3
-**Dart** version 2.10.3
+Flutter version 1.22.3
+Dart version 2.10.3
 ```
