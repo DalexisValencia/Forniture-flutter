@@ -1,6 +1,26 @@
-# furniture_app
+# Furniture-flutter
 
-A new Flutter project.
+<img src="https://github.com/DalexisValencia/logos-for-readme/blob/main/flutter/flutter-dart-830.png" alt="drawing" width="200"/>
+
+This app is a simple example with three furniture products, a simple field search and a tags horizontal list.  
+
+Each product card has a hero animation, this is activated when click to see the detail.
+
+
+## Preview:
+
+![Alt Text](https://github.com/DalexisValencia/Forniture-flutter/blob/develop/video/Screenrecorder-2020-12-10-15-24-34-468.gif)
+
+
+**Is the gif in bad quality? i invite you to visit [this link](https://youtu.be/4lVNDEhqEVI)**
+
+
+## Technical Details:
+
+```
+Flutter version 1.22.3
+Dart version 2.10.3
+```
 
 ## Getting Started
 
@@ -14,6 +34,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-3D presentacion
-https://www.rotato.xyz/?status=accepted&expires=1608328740&p_sid=37270&p_aid=118691&p_link=1440&p_tok=2fc99d79-c8e6-4608-9aad-0b8f09d20d74
