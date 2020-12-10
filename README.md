@@ -1,4 +1,4 @@
-<img src="https://github.com/DalexisValencia/logos-for-readme/blob/main/flutter/flutter-dart-830.png" alt="drawing" width="250"/>
+<img src="https://github.com/DalexisValencia/logos-for-readme/blob/main/flutter/flutter-dart-830.png" alt="drawing" width="450"/>
 
 # Furniture-flutter
 
